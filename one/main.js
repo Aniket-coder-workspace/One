@@ -1,0 +1,1 @@
+console.log("A Javascript file is added to the git");
