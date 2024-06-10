@@ -1,1 +1,2 @@
 This is the 2nd file in Git Repository.
+A new line is added in existing file.
