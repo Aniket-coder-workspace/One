@@ -1,0 +1,1 @@
+touch command -- is used for creating a file in git 
