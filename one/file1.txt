@@ -1,1 +1,10 @@
 This is one file of txt.
+Branches in git :-
+1. git branch :- This command lists all the branches in the current repository.
+2. git branch bug-fix - This command creates a new branch called bug-fix.
+3. git switch bug-fix - This command switches to the bug-fix branch.
+4. git log - This command shows the commit history for the current branch.
+5. git switch master - This command switches to the master branch.
+6. git switch -c dark-mode - This command creates a new branch called dark-mode. the -c flag is used to create a new branch.
+7. git checkout orange-mode - This command switches to the orange-mode branch.
+These all are "Branch commands" in git.
